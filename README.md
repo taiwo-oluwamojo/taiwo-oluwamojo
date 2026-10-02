@@ -15,7 +15,7 @@ I bridge veterinary clinical medicine, One Health frameworks, and computational 
 
 - 🎓 **Education:** Final-Year Doctor of Veterinary Medicine (DVM) Candidate
 - 🔬 **Affiliation:** Student Researcher, Helix Biogen Institute
-- 💻 **Tech Stack:** Python (`scikit-learn`, `pandas`, `numpy`), R, Bash/Linux, Git/GitHub
+- 💻 **Tech Stack:** Python (`scikit-learn`, `pandas`, `numpy`), Bash/Linux, Git/GitHub
 - 🛠️ **Bioinformatics Tools:** cBioPortal, BLAST, AlphaFold, MAFFT, VaxiJen, PyMOL
 
 ---
@@ -36,7 +36,7 @@ I bridge veterinary clinical medicine, One Health frameworks, and computational 
 - **Overview:** Designed a reproducible bioinformatic workflow to profile *TP53* mutation prevalence, copy number alterations (CNAs), and downstream gene expression impact across major human and animal cancer types.
 - **Methods:** Automated data retrieval and normalization from cBioPortal and TCGA APIs; performed differential expression and variant classification analyses.
 - **Key Outcome:** Standardized automated visualization of mutation hot-spots and survival impact, demonstrating translational utility across species.
-- **Tech Stack:** Python, REST APIs, cBioPortal, R, Bioconductor
+- **Tech Stack:** Python, REST APIs, cBioPortal, Bioconductor
 
 ---
 
@@ -53,7 +53,7 @@ I bridge veterinary clinical medicine, One Health frameworks, and computational 
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Programming & Data Science** | Python, R, Shell Scripting, Git, Markdown |
+| **Programming & Data Science** | Python, Shell Scripting, Git, Markdown |
 | **Machine Learning & Stats** | `scikit-learn`, Random Forest, SVM, Kaplan-Meier Analysis, Cross-Validation |
 | **Genomics & Multi-Omics** | cBioPortal, TCGA API, BLAST, MAFFT, Sequence Alignment |
 | **Structural Biology & AI** | AlphaFold, PyMOL, VaxiJen, IEDB, Structural Immunoinformatics |
